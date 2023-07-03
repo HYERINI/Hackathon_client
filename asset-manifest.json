@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Hackathon_client/static/css/main.d3d79b46.css",
-    "main.js": "/Hackathon_client/static/js/main.b62f304b.js",
+    "main.js": "/Hackathon_client/static/js/main.85e27c0c.js",
     "static/js/787.c4e7f8f9.chunk.js": "/Hackathon_client/static/js/787.c4e7f8f9.chunk.js",
     "static/media/Travel1.svg": "/Hackathon_client/static/media/Travel1.2f568b7f25583d1a20ebf28c2c689e2d.svg",
     "static/media/여수.jpg": "/Hackathon_client/static/media/여수.4646693641abc7d49bdb.jpg",
@@ -31,11 +31,11 @@
     "static/media/XIcon.svg": "/Hackathon_client/static/media/XIcon.e20279ac4433a2ac04225d21f9064a29.svg",
     "static/media/ArrowLeft.svg": "/Hackathon_client/static/media/ArrowLeft.8f5f1f8896d84004cff868ecaf1c69b0.svg",
     "main.d3d79b46.css.map": "/Hackathon_client/static/css/main.d3d79b46.css.map",
-    "main.b62f304b.js.map": "/Hackathon_client/static/js/main.b62f304b.js.map",
+    "main.85e27c0c.js.map": "/Hackathon_client/static/js/main.85e27c0c.js.map",
     "787.c4e7f8f9.chunk.js.map": "/Hackathon_client/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d3d79b46.css",
-    "static/js/main.b62f304b.js"
+    "static/js/main.85e27c0c.js"
   ]
 }
